@@ -1,0 +1,1 @@
+This is a first project task of the FreeCodeCamp. It is a static tribute page for the Indian Army developed mainly using bootstrap classes.
