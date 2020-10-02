@@ -1,1 +1,2 @@
-This is a first project task of the FreeCodeCamp. It is a static tribute page for the Indian Army developed mainly using bootstrap classes.
+Now as we all know that what an army life is:
+most of us would be thinking that it's just a simple job but it's never a job it's more a way of life that the braves like to live.
